@@ -10,9 +10,7 @@
   </a>
 </p>
 
-    <h1 align="center" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 36px; margin-bottom: 10px;">
-Heyya, I'm Vidya
-</h1>
+  <h1 align="center" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 36px; margin-bottom: 10px;">Heyya, I'm Vidya</h1>
                                                          
 
 <p align="center" style="font-size:14px; line-height:1.6; font-family: Arial, Helvetica, sans-serif; max-width:900px; margin:auto;">
