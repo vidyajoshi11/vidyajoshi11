@@ -7,12 +7,10 @@
   </a>
   <a href="https://leetcode.com/u/vidyaa_11/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-    <p align="center">
+  </a>
+    
   <a href="https://devvidya.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-blue?style=for-the-badge&logo=github" alt="Portfolio">
-  </a>
-</p>
   </a>
 </p>
 
