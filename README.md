@@ -16,12 +16,12 @@
 <p align="center" style="font-size:9px; line-height:1.6; font-family: Arial, Helvetica, sans-serif; max-width:900px; margin:auto;">
 Final-year Bachelor of Engineering student with a strong interest in Java, database integration, AWS services, and full-stack web development. Hands-on experience in Java and JavaScript, with project work across full-stack web development, Android applications, machine learning, and Python. Solved over 100 problems on LeetCode. Proficient in Java programming, Python, database management systems, object-oriented programming, Android application development, web development, and UI/UX.
 </p>
-<hr style="border: none; height: 4px; background-color: #000; width: 80%; margin: 30px auto;">
+
 
 
 <h3 align="center" style="font-family: Arial, Helvetica, sans-serif;">Tech Stack</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
