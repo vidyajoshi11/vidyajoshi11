@@ -23,7 +23,7 @@ Final-year Bachelor of Engineering student with a strong interest in Java, datab
 
 
 
-<h3 style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 36px; margin-bottom: 10px;">Tech Stack</h3>
+<h3 align="center" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 36px; margin-bottom: 10px;">Tech Stack</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
