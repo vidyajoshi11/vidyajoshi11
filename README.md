@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/u/vidyaa_11/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
+</p><hr>
 
   <h1 align="center" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 36px; margin-bottom: 10px;">Heyya, I'm Vidya</h1>
                                                          
