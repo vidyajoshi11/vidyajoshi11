@@ -11,4 +11,11 @@
 </p>
 
                                                               Heyya I'm Vidya
+
+I’m currently studying in final year of Bachelor's of Engineering. I’m keen to work on Java, Database Integration, AWS Services and Full-Stack Web Development projects. I have hands on experience in programming languages Java, JavaScript. I have built multiple projects in Full-Stack Web Development, Android Application, Machine Learning, Python. I have solved over 100+ problems in Leetcode. My skillset includes Java Programming, Python, database management systems, object oriented programming, Android Application, web development and UI/UX.
+
+
+
+
+                                                              
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,mongodb,figma"/>
