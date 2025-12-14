@@ -17,7 +17,8 @@
 Final-year Bachelor of Engineering student with a strong interest in Java, database integration, AWS services, and full-stack web development. Hands-on experience in Java and JavaScript, with project work across full-stack web development, Android applications, machine learning, and Python. Solved over 100 problems on LeetCode. Proficient in Java programming, Python, database management systems, object-oriented programming, Android application development, web development, and UI/UX.
 </p>
 
-<hr style="border: 0; height: 1px; background-color: #eaeef2; width: 85%; margin: 20px auto;">
+<hr style="border: 0; height: 0.5px; background-color: #eaeef2; width: 85%; margin: 20px auto;">
+
 
 
 
