@@ -44,7 +44,12 @@ Final-year Bachelor of Engineering student with a strong interest in Java, datab
 </p>
 
 
-💼 Check out my portfolio: [Your Name's Portfolio](https://devvidya.netlify.app/)
+<p align="center">
+  <a href="https://devvidya.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-blue?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
+</p>
+
 
 
 
